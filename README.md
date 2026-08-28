@@ -158,14 +158,20 @@ Federated Learning reduces the need to centralize raw training records, but it i
   <img width="1905" height="949" alt="image" src="https://github.com/user-attachments/assets/a2c3ac99-0879-42f7-9264-58c38b522b69" />
 
 3. Dataset
-4. Simulated hospital clients
-5. Start federated training
-6. Review round-by-round curves
-7. Compare model metrics
-8. Patient prediction
-9. Explainability
-10. Privacy architecture
-11. Research questions and future work
+  <img width="1902" height="950" alt="image" src="https://github.com/user-attachments/assets/d84f0695-8637-44e1-b68c-eaa469028d4f" />
+
+5. Simulated hospital clients
+6. Start federated training
+<img width="1706" height="426" alt="image" src="https://github.com/user-attachments/assets/99eadc1f-0db0-4ea4-9f70-81b26d3eac66" />
+
+8. Review round-by-round curves
+9. Compare model metrics
+10. Patient prediction
+11. Explainability
+12. Privacy architecture
+    <img width="1555" height="790" alt="image" src="https://github.com/user-attachments/assets/1d8a40d9-9953-41db-9160-009eb0ae2ecc" />
+
+14. Research questions and future work
 
 ## 14. Troubleshooting
 
