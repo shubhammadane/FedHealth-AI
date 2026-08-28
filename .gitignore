@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+models/*.pth
+models/*.pkl
+data/raw/*
+data/processed/*
+data/clients/*
+results/*.png
+results/*.json
+results/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/clients/.gitkeep
