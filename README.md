@@ -155,15 +155,17 @@ Federated Learning reduces the need to centralize raw training records, but it i
 ## 13. Demo flow
 
 1. Dashboard
-2. Dataset
-3. Simulated hospital clients
-4. Start federated training
-5. Review round-by-round curves
-6. Compare model metrics
-7. Patient prediction
-8. Explainability
-9. Privacy architecture
-10. Research questions and future work
+  <img width="1905" height="949" alt="image" src="https://github.com/user-attachments/assets/a2c3ac99-0879-42f7-9264-58c38b522b69" />
+
+3. Dataset
+4. Simulated hospital clients
+5. Start federated training
+6. Review round-by-round curves
+7. Compare model metrics
+8. Patient prediction
+9. Explainability
+10. Privacy architecture
+11. Research questions and future work
 
 ## 14. Troubleshooting
 
